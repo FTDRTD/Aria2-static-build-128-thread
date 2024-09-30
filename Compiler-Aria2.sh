@@ -39,7 +39,7 @@ initializeANSI()
 }
 download_aria2 ()
 {
-	wget https://github.com/aria2/aria2/releases/download/release-${aria2_version}/aria2-${aria2_version}.tar.gz
+	wget https://ghproxy.cn/https://github.com/aria2/aria2/releases/download/release-${aria2_version}/aria2-${aria2_version}.tar.gz
 	tar -zxvf aria2-${aria2_version}.tar.gz
 	rm -rf aria2-${aria2_version}.tar.gz
 }
