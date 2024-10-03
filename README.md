@@ -20,8 +20,5 @@
 
 ### 已編譯完成，可以直接取用
 
-	https://github.com/king567/Aria2-static-build-128-thread/releases
+	https://github.com/FTDRTD/Aria2-static-build-128-thread/releases/download/gzip/aria2-1.37.0-static-build-128-thread.tar.gz
 
-## 更新資訊
-
- **2019/10/30 Release 新增v1.35.0版本**
